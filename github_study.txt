@@ -10,3 +10,5 @@ this is my additon to this file-3git
 hello worls is my message to github
 new changes are here
 from vscode ...
+every cloud has a silver lining
+your money is no good here
