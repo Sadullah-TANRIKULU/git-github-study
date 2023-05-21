@@ -10,4 +10,4 @@ this is my additon to this file-3git
 hello worls is my message to github
 new changes are here
 infos are updated and changed
-hello world
+hello world merhaba
