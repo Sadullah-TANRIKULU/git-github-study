@@ -11,3 +11,7 @@ hello worls is my message to github
 new changes are here
 infos are updated and changed
 hello world merhaba
+from vscode ...
+every cloud has a silver lining
+your money is no good here
+
